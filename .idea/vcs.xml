@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/3er Parcial - Dispositivos" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/3er Parcial - Dispositivos/T1_GPS" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/3er Parcial - Dispositivos/T2_Camara" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/3er Parcial - Dispositivos/T3_Datos" vcs="Git" />
   </component>
 </project>
